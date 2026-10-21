@@ -78,27 +78,29 @@
       <a name="appearance" val="classic"/>
       <a name="facing" val="south"/>
     </comp>
-    <comp lib="0" loc="(600,220)" name="Pin">
+    <comp lib="0" loc="(580,220)" name="Pin">
       <a name="appearance" val="classic"/>
+      <a name="facing" val="west"/>
+      <a name="label" val="S"/>
       <a name="type" val="output"/>
     </comp>
     <comp lib="1" loc="(360,160)" name="XOR Gate"/>
     <comp lib="1" loc="(360,300)" name="XOR Gate"/>
     <comp lib="1" loc="(440,380)" name="XOR Gate"/>
     <comp lib="1" loc="(550,220)" name="XNOR Gate"/>
-    <comp lib="9" loc="(102,98)" name="Text">
+    <comp lib="9" loc="(100,95)" name="Text">
       <a name="text" val="B"/>
     </comp>
-    <comp lib="9" loc="(142,96)" name="Text">
+    <comp lib="9" loc="(140,95)" name="Text">
       <a name="text" val="C"/>
     </comp>
-    <comp lib="9" loc="(182,98)" name="Text">
+    <comp lib="9" loc="(180,95)" name="Text">
       <a name="text" val="G"/>
     </comp>
-    <comp lib="9" loc="(220,98)" name="Text">
+    <comp lib="9" loc="(220,95)" name="Text">
       <a name="text" val="H"/>
     </comp>
-    <comp lib="9" loc="(258,97)" name="Text">
+    <comp lib="9" loc="(255,95)" name="Text">
       <a name="text" val="I"/>
     </comp>
     <wire from="(100,120)" to="(100,140)"/>
